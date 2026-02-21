@@ -8,7 +8,7 @@ Gosto muito de trabalhar com tecnologias como **HTML, CSS, JavaScript, TypeScrip
 
 ## 🚀 Minhas Tecnologias
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark" />
 </p>
 
@@ -16,7 +16,7 @@ Gosto muito de trabalhar com tecnologias como **HTML, CSS, JavaScript, TypeScrip
 
 ## 📬 Entre em contato comigo
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/eduardoadf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
