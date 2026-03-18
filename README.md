@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Eduardo Alves
 
-Sou um desenvolvedor **Front-end,** crio soluções web modernas e eficientes.  
+Sou um desenvolvedor frontend, crio soluções web modernas e eficientes.  
 Gosto muito de trabalhar com tecnologias como **HTML, CSS, JavaScript, TypeScript, React e Node.js**
 
 ---
