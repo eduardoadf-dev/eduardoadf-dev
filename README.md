@@ -1,7 +1,7 @@
 
 # 👋 Olá, sou Eduardo
 
-Desenvolvedor Front-end, crio soluções web modernas e eficientes.  
+Desenvolvedor Front-end, desenvolvo soluções web modernas e eficientes.  
 Estou atualmente aprimorando minhas habilidades técnicas em **HTML, CSS e JavaScript.** Também estou aprendendo sobre framework (React), sempre buscando aprimorar minha expertise e contribuir para projetos desafiadores e inovadores na área de tecnologia.
 
 ---
