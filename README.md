@@ -1,7 +1,7 @@
 
-# 👋 Olá, eu sou Eduardo Alves
+# 👋 Olá, sou Eduardo
 
-Sou um desenvolvedor frontend, crio soluções web modernas e eficientes.  
+Desenvolvedor Front-end, crio soluções web modernas e eficientes.  
 Estou atualmente aprimorando minhas habilidades técnicas em **HTML, CSS e JavaScript.** Também estou aprendendo sobre framework (React), sempre buscando aprimorar minha expertise e contribuir para projetos desafiadores e inovadores na área de tecnologia.
 
 ---
@@ -30,5 +30,10 @@ Estou atualmente aprimorando minhas habilidades técnicas em **HTML, CSS e JavaS
   
 </p>
 
----
+## 📊 Estatísticas
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardoadf-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardoadf-dev&layout=compact&theme=tokyonight" />
+</p> 
 
