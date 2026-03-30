@@ -31,6 +31,4 @@ Estou atualmente aprimorando minhas habilidades técnicas em **HTML, CSS e JavaS
 </p>
 
 ---
-## ⭐ Sempre aberto a aprender e colaborar!
----
 
